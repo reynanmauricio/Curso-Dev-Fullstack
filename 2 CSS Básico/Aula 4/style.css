@@ -1,0 +1,28 @@
+body {
+    background-image: url(b3.jpg);
+    /*background-repeat: no-repeat;*/
+    /*background-position: 0% 0%;*/
+    /*background-position: center center;*/
+    background-size:contain;
+    background-attachment: fixed;
+    background-blend-mode:soft-light;
+}
+
+
+.photo {
+    width: 150px;
+    
+    border: 2px solid rgb(128, 128, 128); /*short-hand (atalho)*/ 
+    border-radius: 50%; /* ou pode colocar quantos pixels (o quão arrendondado) vc quer
+    Tb é possível entrar com quatro porcentagens diferentes para criar diversos formatos (acontece 
+    em senido horário-canto sup esq, canto sup dir, canto inf dir, canto inf esq)*/
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: rgb(128, 128, 128);
+    mesma coisa que o anterior mas 3 vezes maior/mais trabalho
+    */
+}
+
+p{
+    color: #222222;
+}

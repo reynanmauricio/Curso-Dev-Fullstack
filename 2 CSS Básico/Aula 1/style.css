@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(182, 183, 185);
+}
+
+h3 {
+    color: green;
+}
+
+.photo{
+    width: 150px;
+}
+
+#titulo-principal {
+    color: darkgoldenrod;
+}
