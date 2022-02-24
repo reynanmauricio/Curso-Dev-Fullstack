@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 1000px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    width: 1000px;
+}
+
+.background3 {
+    width: 1000px;
+}
+
+.container {
+    display: flex;
+}
+
+.navbar {
+    width: 30%;
+    padding: 30px;
+}
+
+.content {
+    width: 70%;
+    padding: 30px;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.quem-somos {
+    width: 400px;
+    margin-left: 100px;
+}
+
+li a {
+    color: white;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    background-color: rgb(131, 131, 131);
+    padding: 8px;
+    border: 5px;
+    border-radius: 5px;
+    margin: 18px;
+    width:auto;
+}
+
+.social-icons {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+    
+}
+
+.social-links {
+    text-decoration: none;
+}
